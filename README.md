@@ -14,7 +14,7 @@ $ git push drie
 
 or
 
-[Deploy to drie](http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-php-getting-started.git)
+[![Deploy to drie](https://dl.dropboxusercontent.com/u/34690469/deploy-drie-button.svg)](http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-php-getting-started.git)
 
 [Test](http://master.tom-free-kite-swift.app.push.drieapp.co/)
 
