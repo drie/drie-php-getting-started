@@ -6,7 +6,7 @@ A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) 
 
 
 ```sh
-$ git clone git@github.com:mraym/drie-php-getting-started.git # or clone your own fork
+$ git clone git@github.com:drie/drie-php-getting-started.git # or clone your own fork
 $ cd drie-php-getting-started
 $ git remote add drie your-app-name.app@push.drieapp.co:code.git
 $ git push drie
