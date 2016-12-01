@@ -16,7 +16,7 @@ or
 
 [![Deploy to drie](https://dl.dropboxusercontent.com/u/34690469/deploy-drie-button.svg)](http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-php-getting-started.git)
 
-[Test](http://master.tom-free-kite-swift.app.push.drieapp.co/)
+[Test](https://nvqxg5dfoixgi4tjmuwwizlqnrxxszls.app.spush.drieapp.co/get-http-headers)
 
 ## Documentation
 
