@@ -16,7 +16,7 @@ or
 
 [![Deploy to drie](http://master.driefiles.app.push.drieapp.co/images/deploy-drie-app.png)](http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-php-getting-started.git)
 
-<a href="http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-php-getting-started.git" target="_blank"><img src="http://master.driefiles.app.push.drieapp.co/images/deploy-drie-app.png"/></a>
+<a target="_blank" href="http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-php-getting-started.git"><img src="http://master.driefiles.app.push.drieapp.co/images/deploy-drie-app.png"/></a>
 
 [Deploy to drie experimental](https://nvqxg5dfoixgi4tjmuwwizlqnrxxszls.app.spush.drieapp.co/deploy)
 
