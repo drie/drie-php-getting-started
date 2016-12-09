@@ -18,6 +18,8 @@ or
 
 <a target="_blank" href="http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-php-getting-started.git"><img src="http://master.driefiles.app.push.drieapp.co/images/deploy-drie-app.png"/></a>
 
+<a onclick="window.open("http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/drie/drie-php-getting-started.git", '_blank', 'location=yes,height=80,width=24,scrollbars=yes,status=yes');">Share Page</a>
+
 [Deploy to drie experimental](https://nvqxg5dfoixgi4tjmuwwizlqnrxxszls.app.spush.drieapp.co/deploy)
 
 ## Documentation
